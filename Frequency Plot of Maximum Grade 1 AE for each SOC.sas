@@ -1,10 +1,10 @@
 /****************************************************************************************
 Program:          Program 2-1.sas
 SAS Version:      SAS 9.4M3
-Developer:        Kriss Harris 
-Date:             2019-12-16
-Purpose:          Create Frequency Plot of Maximum Grade 1 AE for each SOC – Low-Dose Xanomeline 
-                  outputs for SAS® Graphics for Clinical Trials by Example book. 
+Developer:        Yuchuan Han
+Date:             16NOV23
+Purpose:          Create Frequency Plot of Maximum Grade 1 AE for each SOC â€“ Low-Dose Xanomeline 
+                  outputs for SASÂ® Graphics for Clinical Trials by Example book. 
 Operating Sys:    Windows 7
 Macros:           NONE
 Input:            adam.adsl, tfldata.adaesummary1, tfldata.format_dataset_output_2_1
