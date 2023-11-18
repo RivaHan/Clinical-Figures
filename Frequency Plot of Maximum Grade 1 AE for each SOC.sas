@@ -19,10 +19,10 @@ Comments:         Use CustomSapphire style that was provided by SAS press
 /*** BEGIN SECTION TO BE UPDATED BY USER ***/
 /*******************************************/
 *Including Custom Sapphire Style;
-%include "C:\Users\gonza\Desktop\GTL_Book_with_Richann_Watson\Details for book\Harris_Watson_Author_Files\Harris_Watson_Author_Files\CustomSapphire.sas";
-libname adam "C:\Users\gonza\Desktop\GTL_Book_with_Richann_Watson\sasdatasets\adam";
-libname tfldata "C:\Users\gonza\Desktop\GTL_Book_with_Richann_Watson\sasdatasets\tfldata";
-%let outputpath = C:\Users\gonza\Desktop\GTL_Book_with_Richann_Watson\Chapter 2\output;
+%include "\Users\hannah\Documents\SAS-Graphs\CustomSapphire.sas";
+libname adam "\Users\hannah\Documents\SAS-Graphs\sasdatasets\adam";
+libname tfldata "\Users\hannah\Documents\SAS-Graphs\sasdatasets\tfldata";
+%let outputpath = \Users\hannah\Documents\SAS-Graphs\AE\output;
 /*****************************************/
 /*** END SECTION TO BE UPDATED BY USER ***/
 /*****************************************/
